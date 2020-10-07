@@ -330,7 +330,7 @@ Once the above code is compiled and executed, we can see that our malicious `Cap
 
 Download: [Capcom.sys - 10KB](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LFEMnER3fywgFHoroYn%2F-LTyWsUdKa48PyMRyZ4I%2F-LTyZ9IkoofuWRxlNpUG%2FCapcom.sys?alt=media&token=e4417fb3-f2fd-42ef-9000-d410bc6ceb54)
 
-**No it's time to abuse the loaded driver to execute arbitrary code.**
+**Now it's time to abuse the loaded driver to execute arbitrary code.**
 
 You can download exploits from [https://github.com/tandasat/ExploitCapcom](https://github.com/tandasat/ExploitCapcom) and [https://github.com/zerosum0x0/puppetstrings](https://github.com/zerosum0x0/puppetstrings) and execute it on the system to elevate our privileges to `NT Authority\System`:
 
